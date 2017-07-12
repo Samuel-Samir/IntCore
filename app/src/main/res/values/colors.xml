@@ -5,7 +5,10 @@
     <color name="colorAccent">#FF4081</color>
     <color name="statrColor">#24d17d</color>
     <color name="centerColor">#4823becd</color>
-
     <color name="endColor">#8074cead</color>
+
+    <color name="textColor">#635d5d</color>
+    <color name="lineColor">#aaa</color>
+    <color name="head_textColor">#20bec8</color>
 
 </resources>
