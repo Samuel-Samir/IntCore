@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
        android:shape="rectangle" android:padding="10dp">
-    <solid android:color="#32c2c5"/>
+    <solid android:color="@color/head_textColor"/>
     <corners
-        android:bottomRightRadius="25dp"
-        android:bottomLeftRadius="25dp"
-        android:topLeftRadius="25dp"
-        android:topRightRadius="25dp"/>
+        android:bottomRightRadius="@dimen/hafe_button_hight"
+        android:bottomLeftRadius="@dimen/hafe_button_hight"
+        android:topLeftRadius="@dimen/hafe_button_hight"
+        android:topRightRadius="@dimen/hafe_button_hight"
+        />
+    <gradient
+        android:startColor="@color/head_textColor"
+        android:endColor="@color/teal_textColor"
+        android:angle="180" />
 </shape>
+

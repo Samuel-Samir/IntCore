@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">IntCore</string>
+    <string name="service_provider">اسم مقدم الخدمة</string>
+    <string name="large_text">وصف مبسط عن الخدمة وما تقدمه من خدمات واسعارها العروض التي يقدمها وصف مبسط عن الخدمة وما تقدمه من خدمات واسعارها العروض التي يقدمها وصف مبسط</string>
+    <string name="str1">ديكور-اضاءة-مفروشات</string>
+    <string name="str2">الرياض-جدة-المدينة</string>
+    <string name="str3">رجال-نساء</string>
+    <string name="str4">35 فرد</string>
+    <string name="str5">15 ساعة عمل</string>
+    <string name="str6">6354</string>
+    <string name="str7">20</string>
+    <string name="str8"> مطلوب مكان مساحته علي الاقل 50 × 50 متر\nعدد الاشخاص لا يقل عن 8\nمخرج كهرباء جهد عال"</string>
+    <string name="head_str">اسم الخدمة المقدمة</string>
+    <string name="button_string">احجز الان</string>
+    <string name="sar">SAR</string>
 </resources>
